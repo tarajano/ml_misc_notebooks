@@ -1,0 +1,4 @@
+
+c = ['samplecodenumber','clumpthickness','uniformityofcellsize','uniformityofcellshape','marginaladhesion','singleepithelialcellsize','barenuclei','blandchromatin','normalnucleoli','mitoses','class']
+
+

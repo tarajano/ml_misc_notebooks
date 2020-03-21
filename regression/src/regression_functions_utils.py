@@ -1,3 +1,13 @@
+
+'''
+Importing:
+
+import sys
+sys.path.insert(0, '<path to containing folder>')
+import regression_functions_utils as rfu
+'''
+
+
 import random
 import numpy as np
 import pandas as pd
